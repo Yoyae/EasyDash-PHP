@@ -1,9 +1,13 @@
-# Changelog for EasyDash-PHP
-By Alexandre (aka elbereth) Devilliers
-https://github.com/elbereth/EasyDash-PHP
+# Changelog for EasyMonoeci-PHP
+By Francois (aka Yoyae) Gineste
+https://github.com/Yoyae/EasyMonoeci-PHP
 
-Tips appreciated: Xbon36F261wXDL4p1CEZAX28t8U4ayR9uu
+Tips appreciated: MLw8i2VzsyhbnZ529LRLoynkwaG3YkHsn7
 
+
+## 1.2.0 
+
+* Renamed to EasyMonoeci-PHP
 
 ## 1.1.0 
 
