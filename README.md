@@ -12,11 +12,11 @@ A simple class for making calls to Monoeci's RPC API using PHP.
 	`require_once('easymonoeci.php');`
 2. Initialize Monoeci connection/object:
 
-	`$monoeci = new \elbereth\EasyMonoeci('username','password');`
+	`$monoeci = new \Yoyae\EasyMonoeci('username','password');`
 
 	Optionally, you can specify a host, port. Default is HTTP on localhost port 24157.
 
-	`$monoeci = new \elbereth\EasyMonoeci('username','password','localhost','24157');`
+	`$monoeci = new \Yoyae\EasyMonoeci('username','password','localhost','24157');`
 
 	If you wish to make an SSL connection you can set an optional CA certificate or leave blank
 	`$monoeci->setSSL('/full/path/to/mycertificate.cert');`
